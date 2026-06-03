@@ -27,12 +27,13 @@ This project analyzes Emergency Room operations using Power BI.
 
 ## Dashboard Preview
 
-<img width="1359" height="794" alt="Dashboard_Monthly_View" src="https://github.com/user-attachments/assets/62c91156-2eac-4d75-9e8e-8e7c36f8137a" />
-<img width="1366" height="788" alt="Dashboard_Consolidated_View" src="https://github.com/user-attachments/assets/de04f4de-2230-456a-8975-1b828bd0837e" />
+<img width="1340" height="791" alt="Dashboard Consolidated View" src="https://github.com/user-attachments/assets/9e3ffd8a-7aa9-4aa6-8e3d-2266bd1a7f55" />
+<img width="1345" height="794" alt="Dashboard Monthly View" src="https://github.com/user-attachments/assets/f1ec6c32-2bc8-483d-8b4d-17cda51d1ca5" />
+<img width="1369" height="789" alt="Patient Details" src="https://github.com/user-attachments/assets/6e7cfd70-723b-4b52-a0f4-19dcb8315e38" />
 
 ## Key Takeaways
 
-<img width="1342" height="741" alt="image" src="https://github.com/user-attachments/assets/eb806e93-03d3-44d6-86af-80f112f29744" />
+<img width="1364" height="795" alt="Key Takeaways" src="https://github.com/user-attachments/assets/ee38a13e-57e8-4104-b739-2bf234b570a3" />
 
 ## Tools Used
 
